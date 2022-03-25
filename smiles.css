@@ -1,0 +1,44 @@
+body{
+  width :60%;
+  margin:auto;
+  font-family: verdana,Arial, sans-serif;
+}
+nav ul{
+  list-style-type: none;
+  ;
+}
+nav li{display:inline-block;
+width:15%;
+color: orange;}
+
+.homepage img{
+  float:right;
+  width: :30%
+  margin-left: 75%;
+}
+footer{ clear: both;}
+h1{text-align: center;
+font-family : Apple Chancery,Arial,sans-sarif;
+font-size: 40px;}
+
+body{background-color:black;
+  color:white;
+  margin: auto;
+}
+p{color: white;}
+h2{color:Yellow;
+}
+img{float:left;
+margin-right: 40px;}
+
+.drinksmenu p{color:cyan;
+margin:auto;}
+.find p{background-color: green;}
+table, td, tr{table-layout:fixed;
+background-position: center;
+background-color: purple;
+border: 1px solid orange;}
+h3{color:Magenta;}
+
+.desserts p{color:pink;
+margin: auto;}
